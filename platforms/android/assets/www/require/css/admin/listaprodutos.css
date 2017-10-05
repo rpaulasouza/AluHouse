@@ -1,0 +1,77 @@
+main > table{
+	background: #eee;
+	width: 100%;
+	border-left: .2rem solid #eee;
+	border-right: .2rem solid #eee;
+}
+main > table > caption{
+	font-size: 2.2rem;
+	font-weight: bolder;
+	padding: .5rem;
+	width: calc(100% - 1rem);
+	height: 2.8rem;
+}
+main > table > caption img{
+	height: 2.4rem;
+	margin-right: .5rem;
+}
+main > table tr{
+	
+}
+
+main > table .rd:nth-of-type(odd){
+	background: #fff;
+}
+main > table .rd:hover{
+	background: #d1d1d1;
+	cursor: pointer;
+}
+main > table tr th,
+main > table tr td{
+	width: calc(12% - .1rem);
+	text-align: center;
+	margin-right: .1rem;
+}
+
+main > table tr td:last-child{
+	width: 4%;
+}
+
+
+main > table tr th{
+	background: #fff;
+	padding: 1rem 0;	
+}
+main > table tr th:nth-last-of-type(1),
+main > table tr td:nth-last-of-type(1){
+	width: 25%;
+	margin-right: 0;
+}
+main > table tr td{
+	height: 2.8rem;
+	padding-top: .5rem;
+}
+
+main > table tr td img{
+	height: 2.6rem; float: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

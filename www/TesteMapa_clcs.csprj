@@ -1,0 +1,100 @@
+<codestructure version="5.11">
+<phptree>
+<treenode node="../../admin/dbcon/dbcon.php;PHP:PHP Include;C:\Users\rogersouza\AppData\Local\Temp\fz3temp-2\acoes.php;f13;4;40;4;;C:\Users\rogersouza\AppData\Local\Temp\fz3temp-2\consulta_jogador.php;f9;1;36;1;;C:\Users\rogersouza\AppData\Local\Temp\fz3temp-2\index 2.php;f13;5;40;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../class/CRUD.class.php;PHP:PHP Include;C:\wamp\www\TesteMapa\www\require\jp\novidades.php;f13;1;36;1;;C:\wamp\www\TesteMapa\www\require\jp\jprecuperar.php;f13;1;36;1;;C:\wamp\www\TesteMapa\www\require\jp\jpLogin.php;f13;1;36;1;;C:\wamp\www\TesteMapa\www\require\jp\jpcad-cliente.php;f13;1;36;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="libs/class.phpmailer.php;PHP:PHP Include;C:\wamp\www\TesteMapa\www\require\class\EnviarEmail.class.php;f9;1;33;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="libs/class.smtp.php;PHP:PHP Include;C:\wamp\www\TesteMapa\www\require\class\EnviarEmail.class.php;f9;2;28;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LOGO;PHP:PHP Word;C:\wamp\www\TesteMapa\www\require\config\config.php;f8;9;12;9;;;;vpos;;v;;r&apos;/img/logos/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MINI;PHP:PHP Word;C:\wamp\www\TesteMapa\www\require\config\config.php;f8;7;12;7;;;;vpos;;v;;r&apos;/img/mini/mini.php?src=&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PRODUTO;PHP:PHP Word;C:\wamp\www\TesteMapa\www\require\config\config.php;f8;10;15;10;;;;vpos;;v;;r&apos;/img/produtos/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PROJETO;PHP:PHP Word;C:\wamp\www\TesteMapa\www\require\config\config.php;f8;8;15;8;;;;vpos;;v;;r&apos;/img/projeto/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="REDIRECT_QUERY_STRING;PHP:PHP Word;C:\wamp\www\TesteMapa\www\require\config\config.php;f8;2;29;2;;;;vpos;;v;;risset($_SERVER[&apos;REDIRECT_QUERY_STRING&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="REDIRECT_URL;PHP:PHP Word;C:\wamp\www\TesteMapa\www\require\config\config.php;f8;4;20;4;;;;vpos;;v;;risset($_SERVER[&apos;REDIRECT_URL&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/class/CRUD.class.php;PHP:PHP Include;C:\wamp\www\TesteMapa\www\require\img\projeto\home.php;f15;71;43;71;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ConDB;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\ConDB.class.php;f9;2;2;19;;;;vpos;;v;;r;;d1,3;;b0,0;;m">
+<treenode node="getConn;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\ConDB.class.php;f9;15;3;18;;;;vpos;;v;;r;;d2,16;;b1,0;;m">
+</treenode>
+<treenode node="setConn;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\ConDB.class.php;f10;6;3;14;;;;vpos;;v;;r;;d2,7;;b3,0;;m">
+</treenode>
+</treenode>
+<treenode node="Cripto;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\Cripto.class.php;f0;2;1;9;;;;vpos;;v;;r;;d0,3;;b0,0;;m">
+<treenode node="setCripto;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\Cripto.class.php;f8;4;2;8;;;;vpos;;v;;r;;d1,5;;b1,0;;mparam;;p">
+</treenode>
+</treenode>
+<treenode node="CRUD;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\CRUD.class.php;f0;7;1;40;;;;vpos;;vConDB;;c;;r;;d0,8;;b0,0;;m">
+<treenode node="delete;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\CRUD.class.php;f8;35;2;38;;;;vpos;;v;;r;;d1,36;;b1,0;;mtable;;pcond;;pexec;;p">
+</treenode>
+<treenode node="insert;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\CRUD.class.php;f8;16;2;21;;;;vpos;;v;;r;;d1,17;;b1,0;;mtable;;pcond;;pexec;;p">
+</treenode>
+<treenode node="prepExec;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\CRUD.class.php;f9;10;2;14;;;;vpos;;v;;r;;d1,11;;b3,0;;mprep;;pexec;;p">
+</treenode>
+<treenode node="select;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\CRUD.class.php;f8;23;2;27;;;;vpos;;v;;r;;d1,24;;b1,0;;mfields;;ptable;;pcond;;pexec;;p">
+</treenode>
+<treenode node="update;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\CRUD.class.php;f8;29;2;33;;;;vpos;;v;;r;;d1,30;;b1,0;;mtable;;pcond;;pexec;;p">
+</treenode>
+</treenode>
+<treenode node="EnviarEmail;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\EnviarEmail.class.php;f0;3;1;59;;;;vpos;;v;;r;;d0,4;;b0,0;;m">
+<treenode node="EnviarMensagem;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\EnviarEmail.class.php;f8;5;2;57;;;;vpos;;v;;r;;d1,6;;b1,0;;memailCliente;;pbody;;psubject;;p">
+</treenode>
+</treenode>
+<treenode node="Login;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\Login.class.php;f1;1;2;49;;;;vpos;;v;;r;;d1,2;;b0,0;;m">
+<treenode node="setLogin;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\Login.class.php;f9;4;3;48;;;;vpos;;v;;r;;d2,5;;b1,0;;memail;;psenha;;p">
+</treenode>
+</treenode>
+<treenode node="Shopping;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\Shopping.class.php;f0;2;1;198;;;;vpos;;v;;r;;d0,3;;b0,0;;m">
+<treenode node="carrinho;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\Shopping.class.php;f1;6;2;196;;;;vpos;;v;;r;;d20,6;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="Url;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\Url.class.php;f0;1;1;67;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="getBase;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\Url.class.php;f18;6;5;19;;;;vpos;;v;;r;;d4,7;;b1,5;;m">
+</treenode>
+<treenode node="getURL;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\Url.class.php;f18;21;5;33;;;;vpos;;v;;r;;d4,22;;b1,5;;mid;;p">
+</treenode>
+<treenode node="getURLList;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\Url.class.php;f19;35;5;66;;;;vpos;;v;;r;;d4,36;;b3,5;;m">
+</treenode>
+</treenode>
+<treenode node="UrlAmigavel;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\UrlAmigavel.class.php;f1;2;2;69;;;;vpos;;v;;r;;d1,3;;b0,0;;m">
+<treenode node="setUrlAmigavel;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\UrlAmigavel.class.php;f9;6;3;68;;;;vpos;;v;;r;;d2,7;;b1,0;;mparam;;pri;;p">
+</treenode>
+</treenode>
+<treenode node="ValidaEmail;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\ValidaEmail.class.php;f1;2;2;19;;;;vpos;;v;;r;;d1,3;;b0,0;;m">
+<treenode node="setValidaEmail;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\ValidaEmail.class.php;f9;4;3;18;;;;vpos;;v;;r;;d2,5;;b1,0;;memail;;p">
+</treenode>
+</treenode>
+<treenode node="ValidaEntradaUsuario;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\ValidaEntradaUsuario.class.php;f0;1;1;9;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="vEntradaUsuario;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\ValidaEntradaUsuario.class.php;f8;3;2;8;;;;vpos;;v;;r;;d1,4;;b1,0;;mentrada;;p">
+</treenode>
+</treenode>
+<treenode node="ValidaSenha;PHP:Class Name;C:\wamp\www\TesteMapa\www\require\class\ValidaSenha.class.php;f0;1;1;12;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="setValidaSenha;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\ValidaSenha.class.php;f8;3;2;11;;;;vpos;;v;;r;;d38,3;;b1,0;;mpass;;p">
+</treenode>
+</treenode>
+<treenode node="__autoload;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\class\CRUD.class.php;f0;2;36;3;;;;vpos;;v;;r;;d27,2;;b0,0;;mclass;;p">
+</treenode>
+<treenode node="check_cache;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\img\mini\mini.php;f0;199;1;213;;;;vpos;;v;;r;;d34,199;;b0,0;;mcache_dir;;p">
+</treenode>
+<treenode node="get_cache_file;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\img\mini\mini.php;f0;246;1;253;;;;vpos;;v;;r;;d27,246;;b0,0;;m">
+</treenode>
+<treenode node="mime_type;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\img\mini\mini.php;f0;168;1;190;;;;vpos;;v;;r;;d27,168;;b0,0;;mfile;;p">
+</treenode>
+<treenode node="open_image;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\img\mini\mini.php;f0;154;1;166;;;;vpos;;v;;r;;d39,154;;b0,0;;mmime_type;;psrc;;p">
+</treenode>
+<treenode node="show_cache_file;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\img\mini\mini.php;f0;215;1;244;;;;vpos;;v;;r;;d40,215;;b0,0;;mcache_dir;;p">
+</treenode>
+<treenode node="show_image;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\img\mini\mini.php;f0;124;1;152;;;;vpos;;v;;r;;d71,124;;b0,0;;mmime_type;;pimage_resized;;pquality;;pcache_dir;;p">
+</treenode>
+<treenode node="valid_src_mime_type;PHP:Function Name;C:\wamp\www\TesteMapa\www\require\img\mini\mini.php;f0;192;1;197;;;;vpos;;v;;r;;d42,192;;b0,0;;mmime_type;;p">
+</treenode>
+</phptree>
+</codestructure>

@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.phonegap.testemapa"
+        },
+        "cordova-plugin-googlemaps": {
+            "API_KEY_FOR_ANDROID": "AIzaSyB26zDb9n6KrXcMQfskOkPX4tQgL-_RKY8",
+            "PACKAGE_NAME": "com.phonegap.testemapa"
+        }
+    },
+    "dependent_plugins": {}
+}

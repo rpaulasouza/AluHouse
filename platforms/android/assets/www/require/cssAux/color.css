@@ -1,0 +1,293 @@
+body {
+    background-image: url(../img/logos/ban.png);
+    background-repeat:repeat-x;
+    background-position-y: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+/** HEADER **/
+header {	
+    background: transparent;
+}
+#top {
+    background: #F9EBE3;
+    color: #000;
+}
+.top-links a {
+    color: #000;
+    font-size: 12px;
+}
+.top-links a:hover {
+    color: #9C9C9C;
+}
+#search .input-lg {
+    border: none;
+    background: #FFF;
+    color: #000;
+    font-style: normal;
+    font-size: 13px;
+}
+#search .btn-search {
+    border: none;
+    background: #FFF;
+    color: #9D9D9C;
+}
+#cart .btn-cart-header {
+    background: #FFF;
+    border: none;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cart.open > .btn {
+    background: #FFF;
+    border: none;
+    color: #000;
+}
+#cart.open > .btn:hover{
+    color: #000;
+}
+#menu_content {
+    margin: 0px 0px 15px 0px;
+    background: transparent;
+}
+#menu_content #menu {
+    background: #FCF2ED;
+}
+#menu #category {
+    color: #000;
+}
+#menu .nav > li > a:hover, #menu .nav > li.open > a {
+    background: transparent;
+    border-bottom: 2px solid #000;
+    color: #000;
+}
+#menu .nav > li.dropdown > a:hover, #menu .nav > li.open > a {
+    background: transparent;
+    color: #000;
+    border-bottom: 2px solid #000;
+}
+#menu .subcategories li > a:hover {
+    color: #F9EBE3;
+    background: #FFF;
+}
+#menu .nav > li > a {
+    color: #000;
+    padding: 13px 4px 13px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+#cart-icon{
+    color: #FF5969;	
+}
+/** HEADER **/
+
+/* CLASSES PADROES */
+.heading_title {
+    color: #000;
+    font-size: 22px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.heading_title .title h1, .heading_title .title h2, .heading_title .title h3, .heading_title .title h4, .heading_title .title h5 {
+    color: #000000;
+    font-size: 20px;
+}
+.btn-finaly {
+    background-color: #59B200;
+    color: #FFF;
+    text-shadow: none;
+}
+.btn-finaly:hover {
+    background-color: #000;
+    color: #FFF;
+}
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    color: #000;
+    background: #F9EBE3;
+}
+/* CLASSES PADROES*/
+
+#Open_menu {
+    float: right;
+    margin-top : 70px;
+    margin-left: 33px;
+    cursor:pointer;
+    font-size: 20px;            
+}
+
+main div.container div.row div#content.col-sm-12 form#account.form-horizontal fieldset#account span{float: right;}
+/** FOOTER **/
+footer {
+    background: #F5F5F5;
+    border-top: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+}
+footer a:hover {
+    color: #999!important;
+}
+#footer-bottom {
+    background: #F5F5F5;
+}
+footer .box-text-newsletter {
+    background-color: #F9EBE3;
+}
+footer .news-title{
+    color: #000;
+}
+.btn-newsletter {
+    background: #000;
+    border: 1px solid #000;
+    color: #FFF;
+}
+
+/** FOOTER **/
+
+/** PRODUCT **/
+.product-info .links-info a {
+    font-size: 12px;
+    font-weight: bold;
+}
+.product-info ul.list-inline li.sizes-no-stock {
+    background: #F9EBE3;
+    color: #000;
+    font-size: 15px;
+    font-weight: bold;
+}
+.product-info h2.price {
+    color: #2B3335;
+    font-size: 12px;
+	margin-top: 15px;
+    display: none;
+}
+.product-info .price_attacked, .product-floating .price_attacked{
+	color: #FF007F;
+    font-size: 26px;
+	font-weight: bold;
+}
+.product-floating .price_attacked{
+    margin-top: 20px !important;
+}
+.product-info .price_attacked span, .product-floating .price_attacked span, .product-floating h2.price, .product-floating .price_simultador_product{
+	display: none;
+}
+.price_simultador_product, .avista_price_product {
+    font-size: 12px;
+    color: #333;
+}
+/** PRODUCT **/
+
+/** SYSTEM/PRODUCT **/
+.product-thumb {
+    background: #FFF;
+    overflow: auto;
+    border: 1px solid #FFF;
+}
+.product-thumb .badge-special {
+    background: #000;
+    text-align: center;
+    color: #FFF;
+}
+.product-thumb .label-product {
+    background: #000;
+}
+.product-thumb .label-product div {
+    border: 1px solid #000;
+    color: #FFF;
+}
+.product-thumb:hover {
+    border: 1px solid #F9EBE3;
+}
+.product-thumb h3, .product-thumb a {
+    color: #000000;
+    font-size: 16px;
+    font-weight: normal;
+}
+.product-thumb .shipping-free {
+    background-color: #F9EBE3;
+    color: #000;
+    margin-bottom: 5px;
+}
+.product-thumb .shipping-free div {
+    margin: auto;
+    color: #000;
+}
+.product-thumb .price{
+    display: none;
+	font-size: 12px;
+	margin: 0;
+}
+.product-thumb .price_attacked{
+	margin: 0;
+}
+.product-thumb .price_attacked span:first-child{
+	display: none;
+}
+.product-thumb .price_attacked span:last-child{
+	color: #FF007F;
+	font-size: 26px;
+}
+.btn-product_list {
+    color: #000;
+    background-color: #F9EBE3;
+    border-radius: 19px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+.btn-product_list:hover {
+    background-color: #FCF2ED;
+    border-radius: 19px;
+    color: #000;
+}
+/** SYSTEM/PRODUCT **/
+
+/** COLUMN LEFT **/
+#column-left {
+    background: #FFF;
+    padding-top: 25px;
+}
+.heading_column_left {
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+}
+.heading_filters {
+    color: #000;
+    font-size: 15px;
+}
+.box-filter {
+    margin: 0px 0px 10px;
+}
+.box-filter .list-itens-filter label.heading_filters {
+    color: #000;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: none;
+}
+.box-filter .list-itens-filter label {
+    color: #000;
+    font-size: 14px;
+}
+/** COLUMN LEFT **/
+
+/** CATEGORY **/
+.heading_title_category {
+    color: #000;
+    font: normal 36px  margin:0px;
+}
+.description_category h2 p, .description_category span {
+    font-size: 14.5px!important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+/** CATEGORY **/
+
+/** ACCOUNT **/
+body.account-login, body.onestepcheckout-checkout, body.checkout-success{
+    background-image: none;
+}
+/** ACCOUNT **/
+
+/** CART **/
+.checkout-cart .cart_mobile_price, .checkout-cart .cart_mobile_price + br, .onestepcheckout-checkout .prod_price s:first-child, .onestepcheckout-checkout .prod_price s:first-child + br{
+    display: none;
+}
+/** CART **/

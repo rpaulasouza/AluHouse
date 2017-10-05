@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\wamp\www\TesteMapa\www\TesteMapa.clpprj">
+	<settings><PM_URL><![CDATA[C:/wamp/www/TesteMapa/www/]]></PM_URL><PM_HOME_URL><![CDATA[C:/wamp/www/TesteMapa/www/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\wamp\www\TesteMapa\www\require\SimpleGal\src\jquery.simpleGal.js" crc="1388772706"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\SimpleGal\dist\jquery.simpleGal.min.js" crc="1488340976"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\SimpleGal\dist\jquery.simpleGal.js" crc="1488340562"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\SimpleGal\Gruntfile.js" crc="1388772706"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\SimpleGal\.travis.yml" crc="1388772706"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\admin\jp\jpcadproduto.php" crc="1487250566"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\admin\cadproduto.js" crc="1487251786"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\recupera.js" crc="1501431195"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\novidades.js" crc="1487950245"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\login.js" crc="1488032078"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\jquerycep.js" crc="1486730939"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\jquery.js" crc="1487160370"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\jquery-3.1.1.min.js" crc="1486817814"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\global.js" crc="1487087925"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\consultar_cep.php" crc="1486729830"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\Codelobster0.php" crc="1487949309"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\cep.js" crc="1486729760"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\js\cad-cliente.js" crc="1501642797"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\jp\novidades.php" crc="1487950403"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\jp\jprecuperar.php" crc="1487965801"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\jp\jpLogin.php" crc="1487949493"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\jp\jpcad-cliente.php" crc="1501642874"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\jp\Codelobster0.js" crc="1487949390"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\img\projeto\home.php" crc="1488630673"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\img\mini\mini.php" crc="1486913728"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\dist\jquery.simpleGal.min.js" crc="1388772706"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\dist\jquery.simpleGal.js" crc="1388772706"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\cssAux\estilo2\stylesheet.css" crc="1485450567"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\cssAux\estilo1\stylesheet.css" crc="1485450453"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\cssAux\utils.css" crc="1486822566"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\cssAux\color.css" crc="1487034364"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\admin\listaprodutos.css" crc="1488028240"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\admin\home.css" crc="1487766696"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\admin\header.css" crc="1487195220"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\admin\cadproduto.css" crc="1487770809"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\ver.css" crc="1487626504"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\home.css" crc="1488221806"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\header.css" crc="1487020510"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\global.css" crc="1487160163"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\footer.css" crc="1486995256"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\cad.css" crc="1501635789"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\css\cad-cliente.css" crc="1501636921"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\config\config.php" crc="1486917389"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\ValidaSenha.class.php" crc="1487096481"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\ValidaEntradaUsuario.class.php" crc="1487101011"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\ValidaEmail.class.php" crc="1487117245"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\UrlAmigavel.class.php" crc="1488819628"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\Url.class.php" crc="1488825144"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\Shopping.class.php" crc="1488832898"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\Login.class.php" crc="1488034115"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\EnviarEmail.class.php" crc="1488054362"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\CRUD.class.php" crc="1489038125"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\Cripto.class.php" crc="1487962453"/>
+		<file name="C:\wamp\www\TesteMapa\www\require\class\ConDB.class.php" crc="1487109088"/>
+		<file name="C:\wamp\www\TesteMapa\www\js\index.js" crc="1501025124"/>
+		<file name="C:\wamp\www\TesteMapa\www\css\index.css" crc="1501636458"/>
+		<file name="C:\wamp\www\TesteMapa\www\index.html" crc="1506953425"/>
+		<file name="C:\wamp\www\TesteMapa\www\cad-cliente.php" crc="1501641732"/>
+	</filescache>
+</project>

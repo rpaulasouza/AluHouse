@@ -1,0 +1,15 @@
+div
+{
+	float: left;width: 85%;
+	padding: 3rem 0;
+	margin-left: 100px;
+	
+}
+div > form{
+	
+	font-weight: bolder;
+	font-size: 1.4rem;
+	width: 100%; float: left; height: 15rem;
+	background: #eee; padding: 3rem; 1rem;
+	text-align: center;
+}

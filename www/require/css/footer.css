@@ -1,0 +1,62 @@
+
+/*footer{
+	padding-bottom: 1rem;background: #eee;
+	height: 100%;
+  min-height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+footer > div:nth-of-type(1),
+footer > div:nth-of-type(2)
+{
+	width: 98.2%;float: left;padding: 1rem;
+}
+
+footer > div:nth-of-type(1)
+{
+	background:#2b2b2b;
+}
+
+footer > div:nth-of-type(1) > form:nth-child(1){
+	float: left;
+	width: 31%;
+}
+footer > div:nth-of-type(1) > form:nth-child(1) > input[type='search'],
+footer > div:nth-of-type(1) > form:nth-child(1) > button
+{
+	float: left;border:none;
+}
+footer > div:nth-of-type(1) > form:nth-child(1) > button
+{
+	background: url('../img/projeto/buscafooter.png');
+	width: 10.9rem;
+	height: 2.7rem;
+	cursor: pointer;
+	margin: .1rem 0 0 -7.9rem;
+	background-repeat: no-repeat;
+}
+footer > div:nth-of-type(1) > form:nth-child(1) > input[type='search']{
+	max-width: 8rem;
+	padding-left: 3.3rem;
+}
+
+
+footer > div:nth-of-type(1) > form:nth-child(2){
+	float: right; 
+	width: 44.7%;
+}
+footer > div:nth-of-type(1) > form:nth-child(2) > input,
+footer > div:nth-of-type(1) > form:nth-child(2) > button
+{
+	float: left;border:none;
+}
+footer > div:nth-of-type(1) > form:nth-child(2) > input[type='email']{
+	width: 49rem;
+}
+footer > div:nth-of-type(1) > form:nth-child(2) > button {
+	width: 9rem;float: right;
+}*/

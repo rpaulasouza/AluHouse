@@ -1,0 +1,85 @@
+main > div 
+{
+	width: 100%;
+	float: left;
+	padding: 4.5rem 0 3rem;
+	/*background: #ccc;*/
+}
+main > div > div{
+	margin: 0 auto;
+	width: 55.2rem;
+	text-align: center;
+}
+main > div > div > label{
+	background: #999;
+	width: 18rem;
+	padding: 1.5rem;
+	color: #fff;
+	font-weight: bolder;
+	font-size: 1.4rem;
+	cursor: pointer;
+	
+}
+div > div > label > input[type="radio"]{
+	margin-right: .5rem;vertical-align: sub;
+}
+div > div > form{
+	float: left;width: 100%;
+	margin-top: .5rem;
+}
+.msg-cad{
+	color: #fff;
+	background: #ff3131;
+	border: none;
+	float: left;
+	width: 100%;
+	padding: .5rem 0;
+	font-size: 1.4rem;
+	font-weight: bolder;
+	display: none;
+}
+div > div > form > p {
+	text-align: center; 
+	float: left; 
+	width: calc(100%);
+	font-size: 1.5rem;
+	font-weight: bolder;
+	margin: 2rem 0 1rem;
+	padding-bottom: 1rem;
+	border-bottom-style: groove;
+}
+	div > div > form > label{
+		float: left;margin: 0 .5rem 0 .5rem;
+		
+	}
+	div > div > form > label:last-child{
+		margin-bottom: 0.5rem;
+	}
+		
+	.cad{
+	background: #000 !important; 
+	border: none !important; 
+	color: #fff !important;
+	float: left; width: calc(100%);
+	margin-top: 2rem;
+	
+}
+#uf{
+	margin: .5rem 0 !important;
+}
+
+#ibge{
+	margin: .5rem 0 !important;
+}
+/*.tamddd{
+width: 5rem;
+
+}
+
+.tamfone{
+width: 5rem;
+
+}*/
+
+
+
